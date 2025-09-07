@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4C51BF&height=200&section=header&text=Hi%20I'm%20Zul%20👋&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=🚀+Junior+Fullstack+Developer;💡+Curiousity+&+Fast+Learner;☕+Coffee+Lover;🌱+Always+Exploring+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=+++🚀+Junior+Fullstack+Developer;💡+Curiousity+and+Fast+Learner;☕+Coffee+Lover;🌱+Always+Exploring+New+Tech)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack  
 
