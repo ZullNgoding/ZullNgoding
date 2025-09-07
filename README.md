@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4C51BF&height=200&section=header&text=Hi%20I'm%20Zul%20👋&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=🚀+Fullstack+Developer;💡+Lifelong+Learner;☕+Coffee+Lover;🌱+Always+Exploring+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=🚀+Junior+Fullstack+Developer;💡+Curiousity+&+Fast+Learner;☕+Coffee+Lover;🌱+Always+Exploring+New+Tech)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack  
 
@@ -35,7 +35,7 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/muhammad-zulfan-6445862b7)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge)](https://Zullporto.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff9800?style=for-the-badge)](https://Zullporto.vercel.app)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ZullNgoding)  
 
 ---
